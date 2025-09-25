@@ -1,23 +1,23 @@
-//#include <iostream>
+ï»¿//#include <iostream>
 //using namespace std;
 //
 //
 //int main() {
 //    setlocale(LC_ALL, "RU");
 //    int r;
-//    cout << "Ââåäèòå íóæíîå ÷èñëî " << endl;
+//    cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð½ÑƒÐ¶Ð½Ð¾Ðµ Ñ‡Ð¸ÑÐ»Ð¾ " << endl;
 //    cout << "r= "; cin >> r;
 //    if (r > 0)
-//        cout << "×èñëî ïîëîæèòåëüíîå  " << endl;
+//        cout << "Ð§Ð¸ÑÐ»Ð¾ Ð¿Ð¾Ð»Ð¾Ð¶Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ  " << endl;
 //    else if
 //        (r < 0)
-//        cout << "×èñëî îòðèöàòåëüíîå " << endl;
+//        cout << "Ð§Ð¸ÑÐ»Ð¾ Ð¾Ñ‚Ñ€Ð¸Ñ†Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ " << endl;
 //    else
-//        cout << "×èñëî ðàâíî íóëþ " << endl;             // punkt a 
+//        cout << "Ð§Ð¸ÑÐ»Ð¾ Ñ€Ð°Ð²Ð½Ð¾ Ð½ÑƒÐ»ÑŽ " << endl;             // punkt a 
 //    if (r % 2 == 0)
-//        cout << "×èñëî ÷åòíîå";
+//        cout << "Ð§Ð¸ÑÐ»Ð¾ Ñ‡ÐµÑ‚Ð½Ð¾Ðµ";
 //    else
-//        cout << "×èñëî íå÷åòíîå";                 // punkt b 
+//        cout << "Ð§Ð¸ÑÐ»Ð¾ Ð½ÐµÑ‡ÐµÑ‚Ð½Ð¾Ðµ";                 // punkt b 
 //
 //
 //    return 0;

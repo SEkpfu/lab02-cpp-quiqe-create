@@ -1,4 +1,4 @@
-//#include <iostream>
+ï»¿//#include <iostream>
 //
 //using namespace std;
 //int main()
@@ -10,14 +10,14 @@
 //	double a;
 //	double b;  
 //	
-//	cout << "Ââåäèòå ÷èñëî à ="; cin >> a;
-//	cout << "Ââåäèòå ÷èñëî b = "; cin >> b;
-//	cout << "Ââåäèòå çíàê àðèôì.îïåðàöèè (+, -, *) : "; cin >> oper;
+//	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ‡Ð¸ÑÐ»Ð¾ Ð° ="; cin >> a;
+//	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ‡Ð¸ÑÐ»Ð¾ b = "; cin >> b;
+//	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð·Ð½Ð°Ðº Ð°Ñ€Ð¸Ñ„Ð¼.Ð¾Ð¿ÐµÑ€Ð°Ñ†Ð¸Ð¸ (+, -, *) : "; cin >> oper;
 //	switch (oper) {
 //	case '+': cout << a << "+" << b << "="<< a+b; break;
 //	case '-': cout << a << "-" << b << "="<< a-b; break;
 //	case '*': cout << a << "*" << b << "="<<a*b; break;
-//	default: cout << "íåâåðíûå äàííûå";
+//	default: cout << "Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ";
 //	}
 //	return 0;
 //}

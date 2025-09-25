@@ -1,17 +1,17 @@
-//#include <iostream>
+ï»¿//#include <iostream>
 //#include <cmath>
 //using namespace std;
 //
 //int main() {
 //	setlocale(LC_ALL, "RU");
 //	int dM, dN;
-//	cout << "Ââåäèòå äàòó ";
-//	cout << "Äåíü ìåñÿöà îò 0 äî 31 "; cin >> dM;
-//	cout << "Äåíü íåäåëè îò 1 äî 7 "; cin >> dN;
+//	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð´Ð°Ñ‚Ñƒ ";
+//	cout << "Ð”ÐµÐ½ÑŒ Ð¼ÐµÑÑÑ†Ð° Ð¾Ñ‚ 0 Ð´Ð¾ 31 "; cin >> dM;
+//	cout << "Ð”ÐµÐ½ÑŒ Ð½ÐµÐ´ÐµÐ»Ð¸ Ð¾Ñ‚ 1 Ð´Ð¾ 7 "; cin >> dN;
 //	if (dM ==13 && dN == 5 or dN ==2)
-//		cout << "íåóäà÷íûé äåíü";
+//		cout << "Ð½ÐµÑƒÐ´Ð°Ñ‡Ð½Ñ‹Ð¹ Ð´ÐµÐ½ÑŒ";
 //	if (dM = 17 && dN == 5)
-//		cout << "íåóäà÷íûé äåíü";
+//		cout << "Ð½ÐµÑƒÐ´Ð°Ñ‡Ð½Ñ‹Ð¹ Ð´ÐµÐ½ÑŒ";
 //	return 0;
 //
 //}

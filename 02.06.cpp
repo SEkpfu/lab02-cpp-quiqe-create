@@ -1,19 +1,19 @@
-//#include <iostream>
+ï»¿//#include <iostream>
 //using namespace std;
 //int main()
 //{
 //	setlocale(0, "");
 //	int x;
-//	cout << "ââåäèòå ñâîþ îöåíêó: ";
+//	cout << "Ð²Ð²ÐµÐ´Ð¸Ñ‚Ðµ ÑÐ²Ð¾ÑŽ Ð¾Ñ†ÐµÐ½ÐºÑƒ: ";
 //	cin >> x;
 //	
 //	switch (x) {
-//	case 5: cout << "îòëè÷íî"; break;
-//	case 4: cout << "õîðîøî";break
-//	case 3: cout << "óäîâëåòâîðèòåëüíî"; break;
+//	case 5: cout << "Ð¾Ñ‚Ð»Ð¸Ñ‡Ð½Ð¾"; break;
+//	case 4: cout << "Ñ…Ð¾Ñ€Ð¾ÑˆÐ¾";break
+//	case 3: cout << "ÑƒÐ´Ð¾Ð²Ð»ÐµÑ‚Ð²Ð¾Ñ€Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾"; break;
 //	case 2:
-//	case 1: cout << "ïëîõî "; break;
-//	default: cout << "íåâåðíûe äàííûå";
+//	case 1: cout << "Ð¿Ð»Ð¾Ñ…Ð¾ "; break;
+//	default: cout << "Ð½ÐµÐ²ÐµÑ€Ð½Ñ‹e Ð´Ð°Ð½Ð½Ñ‹Ðµ";
 //	}
 //	return 0;
 //}

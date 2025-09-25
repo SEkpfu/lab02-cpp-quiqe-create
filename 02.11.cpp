@@ -1,4 +1,4 @@
-//#include <iostream>
+ï»¿//#include <iostream>
 //#include <cmath>
 //#include <ctime>
 //#include <string>
@@ -7,39 +7,39 @@
 //    int lnd = num % 100;
 //    int ld = num % 10;
 //    if ((lnd >= 11) && (lnd <= 19))
-//        return "ëåò";
+//        return "Ð»ÐµÑ‚";
 //    switch (ld) {
 //    case 1:
-//        return "ãîä"; break;
+//        return "Ð³Ð¾Ð´"; break;
 //    case 2:
 //    case 3:
 //    case 4:
-//        return "Ãîäà"; break;
+//        return "Ð“Ð¾Ð´Ð°"; break;
 //    default:
-//        return  "ëåò"; break;
+//        return  "Ð»ÐµÑ‚"; break;
 //    }
 //}
 //
 //int main() {
 //    setlocale(LC_ALL, "RU");
 //    int g, d, m, d1,m1,g1,ch ;
-//    cout << "Ââåäèòå äàòó âàøåãî ðîæäåíèÿ :" << endl;
-//    cout << " Äåíü ðàâåí = "; cin >> d;
-//    cout << "Ìåñÿö ðàâåí (1,12) = "; cin >> m;
-//    cout << " Ãîä ðàâåí = "; cin >> g;
-//    cout << "Ââåäèòå òåêóùóþ äàòó :" << endl;
-//    cout << " Äåíü ðàâåí = "; cin >> d1;
-//    cout << "Ìåñÿö ðàâåí = "; cin >> m1;
-//    cout << " Ãîä ðàâåí = "; cin >> g1;
+//    cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð´Ð°Ñ‚Ñƒ Ð²Ð°ÑˆÐµÐ³Ð¾ Ñ€Ð¾Ð¶Ð´ÐµÐ½Ð¸Ñ :" << endl;
+//    cout << " Ð”ÐµÐ½ÑŒ Ñ€Ð°Ð²ÐµÐ½ = "; cin >> d;
+//    cout << "ÐœÐµÑÑÑ† Ñ€Ð°Ð²ÐµÐ½ (1,12) = "; cin >> m;
+//    cout << " Ð“Ð¾Ð´ Ñ€Ð°Ð²ÐµÐ½ = "; cin >> g;
+//    cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ñ‚ÐµÐºÑƒÑ‰ÑƒÑŽ Ð´Ð°Ñ‚Ñƒ :" << endl;
+//    cout << " Ð”ÐµÐ½ÑŒ Ñ€Ð°Ð²ÐµÐ½ = "; cin >> d1;
+//    cout << "ÐœÐµÑÑÑ† Ñ€Ð°Ð²ÐµÐ½ = "; cin >> m1;
+//    cout << " Ð“Ð¾Ð´ Ñ€Ð°Ð²ÐµÐ½ = "; cin >> g1;
 //    ch = g1 - g;
 //    if (m1 > m)
-//        cout << "Âàø âîçðàñò = " << ch<< " - " << lndr(ch);
+//        cout << "Ð’Ð°Ñˆ Ð²Ð¾Ð·Ñ€Ð°ÑÑ‚ = " << ch<< " - " << lndr(ch);
 //    else if (m1 == m && d1 < d)
-//        cout << "Âàø âîçðàñò = " << ch<< " - " - 1 << lndr(ch);
+//        cout << "Ð’Ð°Ñˆ Ð²Ð¾Ð·Ñ€Ð°ÑÑ‚ = " << ch<< " - " - 1 << lndr(ch);
 //    else if (m1 == m && d1 == d)
-//        cout << "Âàø âîçðàñò = " << ch<< " - " << lndr(ch);
+//        cout << "Ð’Ð°Ñˆ Ð²Ð¾Ð·Ñ€Ð°ÑÑ‚ = " << ch<< " - " << lndr(ch);
 //    else if (m1 < m)
-//        cout << "Âàø âîçðàñò = " << ch<< " - " - 1 << lndr(ch);
+//        cout << "Ð’Ð°Ñˆ Ð²Ð¾Ð·Ñ€Ð°ÑÑ‚ = " << ch<< " - " - 1 << lndr(ch);
 //    
 //    return 0;
 //
